@@ -1,5 +1,6 @@
 #### Репозиторий расширений для Mihon и его вариантов
 
-## Дло автоматичекого обновленрия расширений
+## Для автоматического обновления расширений
 
-Скопируйте и добавте ссылку: https://raw.githubusercontent.com/e-shl/extensions/refs/heads/repo/index.min.json
+Скопируйте и добавьте ссылку: https://raw.githubusercontent.com/e-shl/extensions/refs/heads/repo/index.min.json
+
