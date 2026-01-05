@@ -4,3 +4,4 @@
 
 Скопируйте и добавьте ссылку: https://raw.githubusercontent.com/e-shl/extensions/refs/heads/repo/index.min.json
 
+(Поисковик -> Три точки -> Репозитории -> Добавить)
